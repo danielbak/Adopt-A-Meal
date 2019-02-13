@@ -19,7 +19,7 @@ Ross            | Maddie          | Maddieross           | Developer
 
 Sprint | Estimated Velocity | Actual Velocity
 ------ | ------------------ | ---------------
-1      | TBD                | TBD
+1      | 18                 | 18
 2      | TBD                | TBD
 3      | TBD                | TBD
 4      | TBD                | TBD
